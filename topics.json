@@ -1,0 +1,364 @@
+{
+  "topics": [
+    {
+      "id": "pyt-01",
+      "area": "Python",
+      "type": "build",
+      "topic": "Why y = x doesn't copy a list (aliasing and mutability)"
+    },
+    {
+      "id": "pyt-02",
+      "area": "Python",
+      "type": "build",
+      "topic": "The 'current vs best' pattern: longest run in a list"
+    },
+    {
+      "id": "pyt-03",
+      "area": "Python",
+      "type": "build",
+      "topic": "Balanced brackets with a stack"
+    },
+    {
+      "id": "pyt-04",
+      "area": "Python",
+      "type": "build",
+      "topic": "First non-repeating character with a counting dict"
+    },
+    {
+      "id": "pyt-05",
+      "area": "Python",
+      "type": "build",
+      "topic": "Building a sequence with .append (Fibonacci, done right)"
+    },
+    {
+      "id": "pyt-06",
+      "area": "Python",
+      "type": "explain",
+      "topic": "Inheritance and super() with a tiny class family"
+    },
+    {
+      "id": "pyt-07",
+      "area": "Python",
+      "type": "explain",
+      "topic": "Name mangling: what __x really does"
+    },
+    {
+      "id": "num-01",
+      "area": "NumPy",
+      "type": "compare",
+      "topic": "* vs @ vs np.cross: three ways to 'multiply'"
+    },
+    {
+      "id": "num-02",
+      "area": "NumPy",
+      "type": "explain",
+      "topic": "Broadcasting: how shapes stretch"
+    },
+    {
+      "id": "num-03",
+      "area": "NumPy",
+      "type": "explain",
+      "topic": "axis=0 vs axis=1 without the confusion"
+    },
+    {
+      "id": "pan-01",
+      "area": "pandas",
+      "type": "build",
+      "topic": "groupby: from raw rows to a summary table"
+    },
+    {
+      "id": "pan-02",
+      "area": "pandas",
+      "type": "build",
+      "topic": "merge: inner, left, right, outer on one tiny example"
+    },
+    {
+      "id": "pan-03",
+      "area": "pandas",
+      "type": "compare",
+      "topic": "loc vs iloc"
+    },
+    {
+      "id": "pan-04",
+      "area": "pandas",
+      "type": "compare",
+      "topic": "Filling missing values: mean, median, or something smarter?"
+    },
+    {
+      "id": "sta-01",
+      "area": "Statistics",
+      "type": "explain",
+      "topic": "What a p-value actually means (and what it doesn't)"
+    },
+    {
+      "id": "sta-02",
+      "area": "Statistics",
+      "type": "explain",
+      "topic": "Type I vs Type II errors with a real-world story"
+    },
+    {
+      "id": "sta-03",
+      "area": "Statistics",
+      "type": "explain",
+      "topic": "Confidence intervals: what 95% really refers to"
+    },
+    {
+      "id": "sta-04",
+      "area": "Statistics",
+      "type": "explain",
+      "topic": "Why halving the margin of error needs 4x the data"
+    },
+    {
+      "id": "sta-05",
+      "area": "Statistics",
+      "type": "compare",
+      "topic": "Choosing a test: z, t, paired t, chi-square or ANOVA"
+    },
+    {
+      "id": "sta-06",
+      "area": "Statistics",
+      "type": "build",
+      "topic": "An A/B test by hand: two-proportion z-test in Python"
+    },
+    {
+      "id": "mac-01",
+      "area": "Machine Learning",
+      "type": "explain",
+      "topic": "Data leakage: why you split before you scale"
+    },
+    {
+      "id": "mac-02",
+      "area": "Machine Learning",
+      "type": "explain",
+      "topic": "Overfitting vs underfitting with one picture"
+    },
+    {
+      "id": "mac-03",
+      "area": "Machine Learning",
+      "type": "explain",
+      "topic": "Precision, recall and specificity: pick the positive class first"
+    },
+    {
+      "id": "mac-04",
+      "area": "Machine Learning",
+      "type": "explain",
+      "topic": "ROC AUC as a ranking probability"
+    },
+    {
+      "id": "mac-05",
+      "area": "Machine Learning",
+      "type": "explain",
+      "topic": "Gini impurity by hand"
+    },
+    {
+      "id": "mac-06",
+      "area": "Machine Learning",
+      "type": "explain",
+      "topic": "Bias-variance trade-off"
+    },
+    {
+      "id": "mac-07",
+      "area": "Machine Learning",
+      "type": "compare",
+      "topic": "StandardScaler vs MinMaxScaler"
+    },
+    {
+      "id": "mac-08",
+      "area": "Machine Learning",
+      "type": "compare",
+      "topic": "L1 vs L2 vs Elastic Net"
+    },
+    {
+      "id": "mac-09",
+      "area": "Machine Learning",
+      "type": "compare",
+      "topic": "k-fold vs Monte Carlo cross-validation"
+    },
+    {
+      "id": "mac-10",
+      "area": "Machine Learning",
+      "type": "compare",
+      "topic": "PCA vs LDA"
+    },
+    {
+      "id": "mac-11",
+      "area": "Machine Learning",
+      "type": "compare",
+      "topic": "KNN vs SVM vs Naive Bayes on one dataset"
+    },
+    {
+      "id": "mac-12",
+      "area": "Machine Learning",
+      "type": "compare",
+      "topic": "R² vs RMSE: two views of the same error"
+    },
+    {
+      "id": "mac-13",
+      "area": "Machine Learning",
+      "type": "build",
+      "topic": "K-Means: choosing k with the elbow and silhouette"
+    },
+    {
+      "id": "mac-14",
+      "area": "Machine Learning",
+      "type": "build",
+      "topic": "DBSCAN: finding clusters K-Means misses"
+    },
+    {
+      "id": "mac-15",
+      "area": "Machine Learning",
+      "type": "build",
+      "topic": "PCA from the eigenvalues up"
+    },
+    {
+      "id": "mac-16",
+      "area": "Machine Learning",
+      "type": "build",
+      "topic": "A decision tree vs a random forest"
+    },
+    {
+      "id": "mac-17",
+      "area": "Machine Learning",
+      "type": "build",
+      "topic": "GridSearchCV without the black box"
+    },
+    {
+      "id": "mac-18",
+      "area": "Machine Learning",
+      "type": "build",
+      "topic": "Class imbalance: when 73% accuracy means nothing"
+    },
+    {
+      "id": "tim-01",
+      "area": "Time Series",
+      "type": "explain",
+      "topic": "Stationarity and the ADF test"
+    },
+    {
+      "id": "tim-02",
+      "area": "Time Series",
+      "type": "explain",
+      "topic": "Reading ACF and PACF to pick p and q"
+    },
+    {
+      "id": "tim-03",
+      "area": "Time Series",
+      "type": "build",
+      "topic": "Differencing by hand"
+    },
+    {
+      "id": "tim-04",
+      "area": "Time Series",
+      "type": "build",
+      "topic": "Beat the naive baseline first"
+    },
+    {
+      "id": "tim-05",
+      "area": "Time Series",
+      "type": "build",
+      "topic": "SARIMA chosen by AIC"
+    },
+    {
+      "id": "dee-01",
+      "area": "Deep Learning",
+      "type": "explain",
+      "topic": "What a CNN actually learns from an image"
+    },
+    {
+      "id": "dee-02",
+      "area": "Deep Learning",
+      "type": "explain",
+      "topic": "RNNs and LSTMs: memory for sequences"
+    },
+    {
+      "id": "dee-03",
+      "area": "Deep Learning",
+      "type": "explain",
+      "topic": "Why data augmentation fights overfitting"
+    },
+    {
+      "id": "dee-04",
+      "area": "Deep Learning",
+      "type": "compare",
+      "topic": "When a random forest beats a CNN"
+    },
+    {
+      "id": "sql-01",
+      "area": "SQL",
+      "type": "build",
+      "topic": "Anti-joins: finding what's missing"
+    },
+    {
+      "id": "sql-02",
+      "area": "SQL",
+      "type": "build",
+      "topic": "Top-N per group with DENSE_RANK"
+    },
+    {
+      "id": "sql-03",
+      "area": "SQL",
+      "type": "build",
+      "topic": "CTEs: writing SQL you can read back"
+    },
+    {
+      "id": "sql-04",
+      "area": "SQL",
+      "type": "debug",
+      "topic": "The INT AVG trap in SQL Server"
+    },
+    {
+      "id": "sql-05",
+      "area": "SQL",
+      "type": "debug",
+      "topic": "WHERE vs ON in a LEFT JOIN"
+    },
+    {
+      "id": "gen-01",
+      "area": "GenAI",
+      "type": "build",
+      "topic": "Grounding an LLM summary in quotes from the source"
+    },
+    {
+      "id": "gen-02",
+      "area": "GenAI",
+      "type": "build",
+      "topic": "Checking an LLM's output for hallucinations"
+    },
+    {
+      "id": "mlo-01",
+      "area": "MLOps",
+      "type": "explain",
+      "topic": "Serving a model with FastAPI"
+    },
+    {
+      "id": "mlo-02",
+      "area": "MLOps",
+      "type": "explain",
+      "topic": "Docker for a data scientist, in one page"
+    },
+    {
+      "id": "mlo-03",
+      "area": "MLOps",
+      "type": "explain",
+      "topic": "Keeping API keys out of your code"
+    },
+    {
+      "id": "mlo-04",
+      "area": "MLOps",
+      "type": "compare",
+      "topic": "Hand-built model vs Azure AutoML"
+    },
+    {
+      "id": "geo-01",
+      "area": "Geospatial",
+      "type": "explain",
+      "topic": "Satellite indices (NDVI, land surface temperature) for beginners"
+    },
+    {
+      "id": "geo-02",
+      "area": "Geospatial",
+      "type": "explain",
+      "topic": "Building a composite index with z-scores"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# personal draw history (each person starts fresh)
+used.json
+
+# local planning notes
+PROGRESS.md
+
+__pycache__/
+.DS_Store

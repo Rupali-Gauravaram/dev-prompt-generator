@@ -1,0 +1,33 @@
+{
+  "always": [
+    "Max 600 words (about a 3-minute read)",
+    "End with one question for the reader"
+  ],
+  "by_type": {
+    "explain": [
+      "Explain it with a chai analogy",
+      "Explain it with an architecture or city analogy",
+      "Start with a mistake you made learning it",
+      "Use exactly one diagram or plot",
+      "Explain it to a 12-year-old first, then add the real terms"
+    ],
+    "build": [
+      "NumPy and the standard library only (no scikit-learn)",
+      "Under 40 lines of code",
+      "Include one plot",
+      "Use a tiny dataset you make up yourself",
+      "Add 3 test cases, including one edge case"
+    ],
+    "compare": [
+      "Include a comparison table",
+      "Say when you would pick each option",
+      "Use the same small dataset for every option"
+    ],
+    "debug": [
+      "Start from buggy code and show the wrong output",
+      "Fix it one line at a time",
+      "End with the one-line rule you'd tell your past self"
+    ]
+  },
+  "per_draw": 2
+}
