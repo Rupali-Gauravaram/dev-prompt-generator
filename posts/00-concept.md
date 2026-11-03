@@ -6,7 +6,7 @@ Lately I’ve realised how much I use and depend on AI tools for basic daily tas
 
 It’s ironic to think, we hit approve every time an AI agent is getting a task done for us, whereas in reality, we have stopped doing anything without its approval or suggestions. We’ve stopped trusting that our brain can learn, store and retrieve massive amounts of information and knowledge. We’ve stopped believing that we can navigate simple mundane scenarios or solve problems without AI.
 
-“What you don’t use, you lose”, a phrase that’s been haunting me lately. How often have you caught yourself coming up with a brilliant idea but you immediately had to run it past an LLM to build the idea further or to see if it made sense, that abrupt stop after we get an amazing idea is preventing us from learning, creating and evolving further. I’ve been there too and found myself losing my flare and “think-ability” and wanted to change that.
+“What you don’t use, you lose”, a phrase that’s been haunting me lately. How often have you caught yourself coming up with a brilliant idea but you immediately had to run it past an LLM to build the idea further or to see if it made sense, that abrupt stop after we get an amazing idea is preventing us from learning, creating and evolving further. I’ve been there too and found myself losing my flair and ability to think creatively. I wanted to change that.
 
 I’m an architect turned data scientist but I’m also a creative individual who loves a good challenge. I absolutely love writing, programming and building things, so for starters I built myself a Python script that generates writing prompts for my 30-day writing challenge.
 
