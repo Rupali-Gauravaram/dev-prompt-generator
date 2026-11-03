@@ -6,3 +6,7 @@ PROGRESS.md
 
 __pycache__/
 .DS_Store
+
+# Word drafts and editor lock files
+*.docx
+.~lock.*

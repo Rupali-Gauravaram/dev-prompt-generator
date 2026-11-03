@@ -1,27 +1,30 @@
-# Post 00: the concept
+# I built a Python script that generates writing and coding prompts for my 30-day writing challenge
 
-## The idea
-- A 30-day challenge: one short post a day about something I'm learning in data science.
-- So I don't spend the time deciding where to start or what to write, a script picks the topic and the constraints for me.
-- I follow the prompt's constraints strictly and post the result. 
+*Day 0 of 30 Days of Data Science. Originally published on [Chai & Code](https://chaiandcode.wordpress.com/2026/11/03/i-built-a-python-script-that-generates-writing-and-coding-prompts-for-my-30-day-writing-challenge/), 3 Nov 2026.*
 
-## Why is this needed though?
-- When we can so quickly use an LLM to whip up writing or coding prompts in milliseconds, why bother with such a simple tool?
-- I wanted to make sure everything I learnt over the past year in data science and AI really stuck. The only way to truly challenge myself is to keep things stupidly simple. 
-- By using a tool like this, I'm preventing myself from going on the internet or an LLM and overly depending on it for everything. 
-- I love writing and coding equally now, so this is also a way to make my brain learn, recall and build solutions the old-fashioned way. 
-- It took me a few hours just to build the prompt generation script. I wrote every line myself, using an AI tutor only for hints when I got stuck. That's the habit this challenge is meant to break further.
-- This in itself was the 0th build. 
+Lately I’ve realised how much I use and depend on AI tools for basic daily tasks. Not so long ago, I could read articles, study material or novels for hours on end and not lose focus, I could sit down, manually scribble my ideas with pen and paper and write creative content without second guessing every single word I was writing. I feel like the hobbies I enjoyed so much had become a task that needed to be perfected, polished, and needed an AI agent’s approval at every step.
 
-## How the generator works
-- 60 topics from my own learning (Python, SQL, statistics, machine learning, deep learning and more), each tagged with a subject area and a type: explain, build, compare or debug.
-- Every post gets the same two rules: at most 600 words, and end with one question for the reader.
-- It also gets two random constraints for its type, e.g. "explain it with a chai analogy" or "start from buggy code and show the wrong output".
-- It remembers what it has drawn before (`used.json`), so no topic repeats. `--peek` shows a prompt without using it, and `--reset` starts the prompt generator over.
+It’s ironic to think, we hit approve every time an AI agent is getting a task done for us, whereas in reality, we have stopped doing anything without its approval or suggestions. We’ve stopped trusting that our brain can learn, store and retrieve massive amounts of information and knowledge. We’ve stopped believing that we can navigate simple mundane scenarios or solve problems without AI.
 
-## Format for each day
-- File: `posts/NN-<topic-id>.md` (e.g. `01-sql-04.md`).
-- At the top: the topic, subject area, type and constraints exactly as drawn. Then the post.
+“What you don’t use, you lose”, a phrase that’s been haunting me lately. Every time I watch myself waste my true potential, I have the unsettling feeling that I will lose my “thinkability” altogether. So I knew I wanted to do something to change that a little.
 
-## Where the finished posts go
-- DEV community, Medium, Chai & Code (my personal tech blog page) and LinkedIn, each linking back to this repo.
+I’m an architect turned data scientist but I’m also a creative. I absolutely love writing, programming and building things, so for starters I built myself a Python script that generates writing prompts for my 30-day writing challenge.
+
+Here’s how it works:
+
+1. A list of 60 topics I'm learning, each tagged with a subject and a type (explain, build, compare, debug)
+2. A list of writing rules: two that every post follows, plus two picked at random to suit the topic's type
+3. Each run picks a topic I haven't used yet and keeps a record so nothing repeats.
+4. Then a simple “show_prompt” function displays the final prompt like in the following example.
+
+![Terminal output from the prompt generator showing a post's topic, subject area, type and writing constraints](https://chaiandcode.wordpress.com/wp-content/uploads/2026/11/image-b85a743d.png?w=876)
+
+Here are some things I found challenging while building the script:
+
+1. Randomizing the topic and constraints meant that I had to randomly choose a topic, choose 2 constraints associated with the type of the topic selected (for example: if type was ‘Explain’, I would need constraints associated with that type and not random constraints for the prompt to make sense). Then I had to combine the default constraints and current prompt constraints into one list and combine it with the selected topic.
+2. Is there a way to see a prompt but not use it up? Because each run uses up a prompt and saves its id in used, I had to use Python's argparse module, which lets me add options like --peek that allows me to only “peek” at a prompt.
+3. What happens when all 60 prompts are used up? Is there a way to reset the generator? Added an argparse option --reset, that allows me to reset the prompt generator to make all 60 prompts available again.
+
+This was Day 0 of posting about a tool I built to help myself reach my true potential. I’ll be posting 1 post every day for the next 30 days based on a prompt I get, strictly adhering to the constraints, no skipping it if it’s challenging and no AI to help me write or code. In my own way, this is a little revolt against the complacency that technological advancement has enabled in our lives.
+
+Would you join this revolt?
