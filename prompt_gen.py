@@ -15,7 +15,6 @@ if args.reset:
     print("Reset complete. All prompts are now available.")
     sys.exit()
 
-
 # load topics and constraints JSON files
 with open('topics.json','r') as file:
     topics = json.load(file)
