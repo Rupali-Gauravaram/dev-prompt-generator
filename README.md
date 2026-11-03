@@ -1,6 +1,6 @@
 # dev-prompt-generator
 
-A small Python script that picks what I write about next. Each run draws one topic I haven't covered yet, from a list built from what I'm learning in data science, and adds a few writing constraints so every post is short and focused.
+A small Python script that picks what I write about next. Each run draws one topic I haven't written about yet, from a list of everything I've been learning in data science, and adds a few writing constraints so every post is short and focused.
 
 I'm using it for a 30-day writing challenge: one post a day, starting 3 Nov 2026. The posts live in [`posts/`](posts/).
 
