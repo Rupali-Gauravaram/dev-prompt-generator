@@ -1,0 +1,461 @@
+EmployeeID,Age,Gender,Department,JobRole,Education,MaritalStatus,MonthlyIncome,YearsAtCompany,YearsInCurrentRole,DistanceFromHome,OverTime,JobSatisfaction,WorkLifeBalance,PerformanceRating,Attrition
+EMP1044,36.0,Male,Research & Development ,Manager,Bachelor's,single,5337,0.0,0.0,8.0,No,3.0,4.0,3.0,No
+EMP1191,40.0,Female,R&D,Manufacturing Director,High School,Divorced,8263,5.0,0.0,8.0,No,3.0,2.0,3.0,no
+EMP1282,29.0,Female,Research & Development ,Laboratory Technician,Associate's,single,7340,5.0,0.0,8.0,No,3.0,4.0,3.0,No
+EMP1429,21.0,Male, Sales,Sales Executive,High School,Married,5576,2.0,0.0,2.0,No,3.0,1.0,4.0,Yes
+EMP1336,45.0,Male,Human Resources,Manager,Associate's,Divorced,6069,0.0,0.0,3.0,Yes,2.0,3.0,4.0,Yes
+EMP1225,29.0,Female, Sales,Sales Executive,PhD,divorced,5594,4.0,1.0,4.0,No,1.0,4.0,3.0,no
+EMP1307,18.0,Female, Sales,Sales Executive,PhD,married,5633,0.0,0.0,1.0,No,4.0,1.0,3.0,No
+EMP1035,40.0,Male,research & development,Manufacturing Director,Associate's,Divorced,5968,0.0,0.0,11.0,No,4.0,2.0,4.0,no
+EMP1239,38.0,Male,,HR Executive,High School,Married,,4.0,0.0,7.0,Yes,3.0,4.0,3.0,No
+EMP1139,22.0,Male, Sales,Sales Executive,Associate's,Married,,3.0,0.0,2.0,No,4.0,1.0,4.0,yes
+EMP1414,50.0,Male,R&D,Research Scientist,PhD,Married,4785,22.0,2.0,-2.0,Yes,2.0,4.0,3.0,N
+EMP1228,52.0,Female,Sales,Sales Representative,Master's,married,3633,1.0,0.0,1.0,No,2.0,1.0,4.0,No
+EMP1302,33.0,Female, Human Resources,HR Specialist,Master's,Single,3272,6.0,1.0,4.0,Yes,4.0,3.0,2.0,no
+EMP1140,33.0,Female, Sales,Sales Representative,PhD,SINGLE,7735,5.0,2.0,16.0,Yes,1.0,3.0,3.0,yes
+EMP1142,33.0,Male,Research & Development,Research Scientist,Bachelor's,single,3078,1.0,1.0,-1.0,No,4.0,3.0,3.0,no
+EMP1270,36.0,Male,Research & Development ,Research Scientist,PhD,single,5879,0.0,0.0,1.0,Yes,3.0,3.0,3.0,Yes
+EMP1091,23.0,Male,Research & Development ,Manufacturing Director,Bachelor's,divorced,,2.0,2.0,34.0,No,4.0,2.0,2.0,No
+EMP1057,35.0,Female,SALES,Sales Representative,Associate's,Divorced,5760,0.0,0.0,10.0,No,2.0,4.0,3.0,No
+EMP1220,-5.0,Male,Sales,Manager,PhD,Married,5812,0.0,0.0,1.0,No,4.0,4.0,1.0,No
+EMP1301,42.0,Female,SALES,Sales Executive,High School,Single,5816,4.0,1.0,12.0,No,1.0,3.0,4.0,Y
+EMP1224,28.0,Male,Sales,Manager,Bachelor's,SINGLE,4056,3.0,0.0,33.0,Yes,4.0,3.0,1.0,No
+EMP1123,28.0,Female,Human Resources,HR Executive,Master's,Divorced,,10.0,0.0,1.0,No,4.0,1.0,2.0,no
+EMP1245,31.0,Male,Sales,Sales Representative,Associate's,Divorced,4379,10.0,0.0,7.0,Yes,1.0,1.0,3.0,yes
+EMP1100,32.0,Male,R&D,Research Scientist,Master's,Single,,1.0,1.0,3.0,Yes,1.0,2.0,4.0,Y
+EMP1076,57.0,Female,research & development,Manager,High School,Single,2364,4.0,0.0,17.0,No,1.0,4.0,4.0,yes
+EMP1299,50.0,Female,SALES,Manager,Master's,divorced,4849,1.0,0.0,2.0,Yes,2.0,1.0,2.0,Yes
+EMP1041,19.0,Female,research & development,Laboratory Technician,PhD,single,6868,1.0,0.0,1.0,No,3.0,4.0,3.0,Y
+EMP1436,29.0,Female,Human Resources,HR Specialist,Bachelor's,divorced,9190,1.0,1.0,17.0,Yes,,1.0,2.0,yes
+EMP1413,26.0,Male,Research & Development,Research Scientist,PhD,Divorced,3894,2.0,0.0,12.0,No,,3.0,3.0,No
+EMP1377,40.0,Male,human resources,HR Specialist,Bachelor's,married,6386,0.0,0.0,3.0,Yes,3.0,2.0,2.0,yes
+EMP1397,41.0,Male,research & development,Manufacturing Director,High School,married,7057,2.0,1.0,1.0,Yes,4.0,4.0,3.0,yes
+EMP1373,33.0,Male,SALES,Sales Representative,High School,married,5170,10.0,3.0,1.0,Yes,4.0,1.0,3.0,no
+EMP1316,35.0,Male,Research & Development ,Laboratory Technician,High School,Married,,1.0,1.0,1.0,Yes,3.0,2.0,3.0,N
+EMP1292,31.0,Male, Human Resources,Manager,Bachelor's,single,3050,1.0,0.0,1.0,Yes,1.0,2.0,3.0,Y
+EMP1151,40.0,Female, Sales,Manager,Master's,divorced,4472,7.0,4.0,3.0,No,4.0,1.0,4.0,Yes
+EMP1278,30.0,Female,Sales,Sales Executive,PhD,SINGLE,3786,0.0,0.0,11.0,No,1.0,3.0,4.0,Yes
+EMP1305,38.0,Female,SALES,Sales Representative,Master's,Married,2889,3.0,0.0,1.0,No,3.0,4.0,4.0,Yes
+EMP1118,34.0,Male,SALES,Sales Executive,High School,single,3215,4.0,1.0,2.0,No,2.0,4.0,4.0,N
+EMP1361,18.0,Male,sales,Sales Representative,Master's,divorced,3513,0.0,0.0,2.0,No,3.0,1.0,3.0,no
+EMP1022,43.0,Female,research & development,Research Scientist,Associate's,single,6060,6.0,0.0,8.0,Yes,4.0,1.0,4.0,N
+EMP1219,26.0,Male, Sales,Sales Executive,Master's,divorced,3666,4.0,0.0,4.0,No,4.0,1.0,3.0,No
+EMP1367,37.0,Male,Research & Development ,Manufacturing Director,Bachelor's,single,9411,2.0,0.0,1.0,No,1.0,4.0,3.0,No
+EMP1430,24.0,Female,Research & Development ,Laboratory Technician,Master's,married,5442,2.0,1.0,1.0,No,4.0,4.0,2.0,no
+EMP1349,26.0,Male,Research & Development,Manager,,Married,6216,3.0,0.0,2.0,Yes,2.0,3.0,2.0,N
+EMP1237,44.0,Female, Sales,Manager,PhD,married,4972,2.0,1.0,2.0,No,4.0,4.0,3.0,no
+EMP1313,35.0,Female,R&D,Manager,PhD,Married,94700,2.0,1.0,11.0,No,2.0,3.0,4.0,no
+EMP1242,34.0,Male, Human Resources,HR Executive,PhD,married,2836,6.0,2.0,4.0,No,4.0,4.0,2.0,N
+EMP1351,45.0,Female,sales,Sales Executive,High School,married,5937,8.0,0.0,5.0,Yes,3.0,4.0,2.0,no
+EMP1380,43.0,Female,Research & Development,Research Scientist,High School,divorced,5847,11.0,0.0,3.0,No,1.0,1.0,2.0,Yes
+EMP1406,39.0,Female,research & development,Manufacturing Director,Associate's,divorced,,5.0,2.0,23.0,Yes,4.0,4.0,3.0,no
+EMP1124,35.0,Female,Research & Development ,Manager,Master's,divorced,"6,589",4.0,1.0,7.0,No,4.0,3.0,3.0,No
+EMP1322,18.0,Male,Human Resources,Manager,Bachelor's,Divorced,5828,0.0,0.0,19.0,No,4.0,1.0,3.0,Y
+EMP1051,39.0,Female, Human Resources,HR Executive,Master's,single,5751,4.0,2.0,3.0,No,4.0,2.0,3.0,no
+EMP1109,52.0,Male,R&D,Manager,PhD,divorced,,1.0,0.0,3.0,Yes,3.0,3.0,3.0,No
+EMP1053,33.0,Female,Research & Development,Manufacturing Director,High School,married,8623,9.0,0.0,2.0,No,3.0,2.0,3.0,No
+EMP1067,33.0,Female,research & development,Laboratory Technician,Associate's,Divorced,4881,0.0,0.0,-40.0,Yes,4.0,3.0,3.0,No
+EMP1303,60.0,Male,sales,Sales Representative,Master's,married,6867,4.0,0.0,22.0,Yes,4.0,3.0,3.0,No
+EMP1426,21.0,Male,SALES,Sales Representative,Associate's,Single,7570,2.0,0.0,1.0,Yes,3.0,3.0,4.0,No
+EMP1328,18.0,Male, Sales,Manager,PhD,Divorced,5512,0.0,0.0,2.0,No,1.0,1.0,2.0,no
+EMP1192,50.0,Female,HR,HR Executive,Master's,SINGLE,3377,0.0,0.0,1.0,No,3.0,3.0,3.0,No
+EMP1162,38.0,Female,SALES,Manager,Bachelor's,single,6449,7.0,0.0,2.0,Yes,,3.0,3.0,No
+EMP1158,31.0,Male, Sales,Manager,Associate's,Married,4569,4.0,0.0,3.0,Yes,4.0,4.0,3.0,N
+EMP1445,36.0,Male,sales,Sales Executive,Master's,single,4448,-2.0,0.0,9.0,No,2.0,2.0,3.0,No
+EMP1072,31.0,Male,sales,Sales Executive,High School,divorced,8091,0.0,0.0,38.0,No,4.0,2.0,2.0,No
+EMP1423,54.0,Female,Research & Development,Manufacturing Director,PhD,Divorced,8202,6.0,6.0,6.0,No,2.0,1.0,4.0,No
+EMP1187,48.0,Female,Research & Development ,Research Scientist,PhD,divorced,2783,5.0,0.0,25.0,No,1.0,4.0,3.0,No
+EMP1183,33.0,Female,R&D,Manager,Bachelor's,Married,4468,6.0,0.0,4.0,Yes,2.0,1.0,3.0,no
+EMP1442,37.0,Female,sales,Sales Executive,Bachelor's,divorced,3803,3.0,0.0,1.0,No,2.0,1.0,4.0,Y
+EMP1048,23.0,Male, Sales,Sales Executive,Bachelor's,married,6197,2.0,2.0,30.0,No,1.0,1.0,4.0,N
+EMP1010,39.0,Male,Sales,Sales Representative,PhD,Divorced,"6,590",3.0,0.0,13.0,No,3.0,3.0,4.0,no
+EMP1198,38.0,Male,R&D,Manufacturing Director,Master's,Married,7166,0.0,0.0,12.0,No,4.0,1.0,3.0,no
+EMP1128,35.0,Female,research & development,Laboratory Technician,Master's,married,8366,4.0,0.0,3.0,Yes,3.0,3.0,2.0,Y
+EMP1285,37.0,Male,sales,Sales Executive,Master's,divorced,5907,-2.0,0.0,5.0,No,2.0,1.0,3.0,yes
+EMP1165,40.0,Female,SALES,Sales Representative,Bachelor's,married,5336,2.0,2.0,1.0,Yes,2.0,4.0,3.0,Yes
+EMP1054,33.0,Female,Sales,Manager,Bachelor's,married,6976,3.0,3.0,3.0,No,3.0,2.0,4.0,N
+EMP1251,51.0,Female,research & development,Research Scientist,PhD,married,8645,1.0,0.0,25.0,Yes,1.0,2.0,4.0,N
+EMP1175,26.0,Male,research & development,Manager,Master's,Divorced,,6.0,0.0,4.0,Yes,,1.0,4.0,Yes
+,,,,,,,,,,,,,,,
+EMP1405,32.0,Male,Sales,Sales Executive,Master's,single,3258,0.0,0.0,3.0,Yes,3.0,1.0,3.0,N
+EMP1214,38.0,Male,SALES,Sales Executive,PhD,Divorced,4994,5.0,0.0,4.0,No,1.0,4.0,3.0,yes
+EMP1050,37.0,Female, Sales,Sales Representative,Master's,Married,3306,5.0,0.0,8.0,Yes,4.0,4.0,3.0,No
+EMP1099,28.0,Female,Research & Development,Manufacturing Director,Bachelor's,married,4431,1.0,1.0,10.0,No,4.0,4.0,3.0,No
+EMP1141,-5.0,Male,Research & Development ,Research Scientist,Associate's,SINGLE,4155,0.0,0.0,4.0,No,3.0,2.0,2.0,Y
+EMP1074,39.0,Female,sales,Sales Executive,PhD,Single,7922,10.0,7.0,20.0,No,,2.0,4.0,Y
+EMP1150,43.0,Male,Human Resources,Manager,Bachelor's,married,4473,3.0,1.0,2.0,No,1.0,3.0,4.0,no
+EMP1354,46.0,Female,Sales,Sales Executive,High School,Divorced,3439,3.0,0.0,4.0,No,3.0,4.0,3.0,No
+EMP1231,29.0,Male,Research & Development,Manager,Master's,Married,6271,3.0,2.0,2.0,No,1.0,1.0,3.0,N
+EMP1063,39.0,Female,Research & Development ,Research Scientist,Bachelor's,divorced,4070,1.0,1.0,4.0,Yes,2.0,4.0,4.0,no
+EMP1153,34.0,Female,Sales,Sales Executive,Bachelor's,divorced,4430,16.0,0.0,4.0,Yes,4.0,3.0,3.0,no
+EMP1344,59.0,Female, Human Resources,Manager,Associate's,married,,8.0,0.0,4.0,Yes,1.0,1.0,3.0,yes
+EMP1260,26.0,Female,SALES,Manager,PhD,Divorced,5183,3.0,2.0,6.0,No,4.0,2.0,3.0,N
+EMP1171,36.0,Female, Sales,Sales Representative,PhD,Divorced,5894,1.0,0.0,13.0,Yes,,4.0,4.0,yes
+EMP1154,38.0,Male, Sales,Sales Executive,PhD,Divorced,8654,12.0,0.0,3.0,No,4.0,1.0,4.0,no
+EMP1284,46.0,Male, Human Resources,HR Executive,Bachelor's,married,5645,16.0,1.0,11.0,No,4.0,4.0,2.0,N
+EMP1152,41.0,Male,research & development,Research Scientist,PhD,Divorced,6103,1.0,0.0,1.0,No,2.0,3.0,4.0,Y
+EMP1019,18.0,Male,SALES,Sales Executive,Associate's,married,6200,0.0,0.0,1.0,No,3.0,2.0,4.0,No
+EMP1321,21.0,Male, Sales,Manager,PhD,Married,5755,3.0,3.0,7.0,Yes,3.0,2.0,3.0,no
+EMP1396,37.0,Female,Research & Development,Research Scientist,Bachelor's,SINGLE,4744,,0.0,11.0,No,4.0,3.0,3.0,N
+EMP1186,36.0,Male,Human Resources,Manager,Master's,Single,4712,3.0,3.0,1.0,Yes,1.0,1.0,4.0,Yes
+EMP1117,33.0,Female,R&D,Research Scientist,Master's,Divorced,7324,0.0,0.0,6.0,Yes,,3.0,4.0,N
+EMP1311,45.0,Male,Research & Development,Manufacturing Director,PhD,Divorced,5062,3.0,0.0,-2.0,No,2.0,1.0,4.0,No
+EMP1343,23.0,Female,research & development,Manufacturing Director,Master's,divorced,"6,592",2.0,1.0,-3.0,No,3.0,3.0,2.0,N
+EMP1001,35.0,Female,Research & Development ,Laboratory Technician,Master's,Divorced,119860,6.0,0.0,1.0,No,1.0,2.0,4.0,no
+EMP1061,27.0,Male,sales,Manager,Master's,divorced,5157,9.0,5.0,3.0,No,4.0,1.0,2.0,N
+EMP1280,36.0,Male,SALES,Sales Representative,Bachelor's,Married,5985,2.0,2.0,1.0,No,1.0,3.0,3.0,N
+EMP1364,47.0,Female,Research & Development ,Laboratory Technician,PhD,Divorced,7807,-2.0,0.0,6.0,No,2.0,2.0,4.0,Yes
+EMP1273,35.0,Female,research & development,Laboratory Technician,PhD,Married,5361,17.0,2.0,1.0,Yes,4.0,4.0,3.0,no
+EMP1102,39.0,Female,human resources,Manager,Bachelor's,married,5216,,0.0,29.0,Yes,2.0,1.0,2.0,yes
+EMP1034,34.0,Male,Research & Development ,Laboratory Technician,Bachelor's,Divorced,6900,7.0,7.0,9.0,Yes,1.0,3.0,3.0,Yes
+EMP1249,27.0,Female, Human Resources,Manager,PhD,Married,5004,5.0,1.0,1.0,No,1.0,1.0,3.0,N
+EMP1169,37.0,Female, Sales,Manager,PhD,single,5852,4.0,0.0,31.0,Yes,2.0,3.0,3.0,no
+EMP1353,38.0,Female,Human Resources,HR Specialist,Master's,single,4597,0.0,0.0,1.0,Yes,3.0,4.0,3.0,Yes
+EMP1444,37.0,Female,Human Resources,Manager,Associate's,Married,4127,7.0,1.0,1.0,No,1.0,2.0,3.0,N
+EMP1185,33.0,Female,Research & Development,Manager,Bachelor's,Divorced,4059,7.0,0.0,5.0,No,3.0,3.0,4.0,No
+EMP1340,40.0,Male,Research & Development,Research Scientist,Associate's,SINGLE,2255,0.0,0.0,16.0,No,1.0,4.0,4.0,N
+EMP1360,23.0,Male,Research & Development ,Laboratory Technician,Master's,Divorced,6950,5.0,0.0,3.0,No,3.0,4.0,2.0,no
+EMP1133,28.0,Female,HR,Manager,Master's,Single,4041,1.0,0.0,9.0,No,3.0,3.0,2.0,no
+EMP1404,32.0,Female,Sales,Sales Executive,,Married,10804,4.0,2.0,2.0,No,4.0,3.0,3.0,No
+EMP1177,44.0,Female,Research & Development,Manufacturing Director,PhD,divorced,6227,6.0,3.0,1.0,No,3.0,3.0,3.0,yes
+EMP1056,31.0,Male,SALES,Sales Representative,Master's,married,7347,1.0,1.0,11.0,No,3.0,1.0,4.0,Y
+EMP1223,27.0,Female,Sales,Sales Executive,PhD,SINGLE,6511,1.0,1.0,11.0,No,3.0,2.0,3.0,Y
+EMP1202,51.0,Male,SALES,Sales Executive,Bachelor's,SINGLE,4620,9.0,4.0,11.0,No,,3.0,3.0,no
+EMP1415,22.0,Male, Sales,Sales Representative,Bachelor's,Single,4267,2.0,2.0,1.0,Yes,1.0,4.0,4.0,No
+EMP1235,45.0,Female,Research & Development,Manager,PhD,Single,3872,6.0,1.0,3.0,No,3.0,2.0,4.0,Yes
+EMP1376,38.0,Male,SALES,Sales Executive,Master's,married,4749,0.0,0.0,3.0,No,1.0,1.0,3.0,No
+EMP1416,59.0,Male, Sales,Sales Representative,Bachelor's,Single,7415,9.0,0.0,1.0,No,1.0,3.0,2.0,no
+EMP1163,24.0,Female, Human Resources,HR Executive,PhD,Married,3392,0.0,0.0,13.0,No,1.0,1.0,3.0,Y
+EMP1108,40.0,Male,sales,Sales Representative,Master's,Divorced,4707,1.0,1.0,-6.0,No,3.0,1.0,3.0,no
+EMP1049,41.0,Female, Sales,Sales Executive,Master's,Married,5897,0.0,0.0,1.0,No,1.0,1.0,4.0,Yes
+EMP1300,33.0,Male,sales,Sales Representative,High School,Married,3425,0.0,0.0,2.0,No,4.0,3.0,4.0,no
+EMP1043,36.0,Male,human resources,HR Executive,Associate's,married,7201,3.0,0.0,7.0,No,1.0,1.0,3.0,N
+EMP1116,27.0,Female,Research & Development ,Research Scientist,Master's,Divorced,5693,4.0,0.0,25.0,No,4.0,4.0,3.0,No
+EMP1027,36.0,Female,sales,Sales Representative,High School,Married,"3,811",1.0,0.0,1.0,No,4.0,3.0,3.0,yes
+EMP1350,27.0,Female,Sales,Sales Representative,Bachelor's,Divorced,4635,9.0,0.0,1.0,Yes,1.0,4.0,4.0,N
+EMP1089,39.0,Male,SALES,Sales Representative,High School,SINGLE,5842,8.0,0.0,7.0,No,4.0,1.0,3.0,no
+EMP1196,29.0,Female,Sales,Manager,Bachelor's,single,"6,482",0.0,0.0,18.0,No,1.0,1.0,2.0,No
+EMP1283,18.0,Female,sales,Manager,High School,divorced,4251,0.0,0.0,1.0,Yes,4.0,3.0,4.0,no
+EMP1421,49.0,Female,Sales,Sales Representative,PhD,married,"5,158",0.0,0.0,2.0,No,4.0,2.0,4.0,Y
+EMP1130,42.0,Female,Sales,Sales Executive,PhD,SINGLE,4117,1.0,1.0,1.0,No,3.0,3.0,3.0,N
+EMP1013,34.0,Male,sales,Sales Representative,Bachelor's,single,7686,6.0,1.0,15.0,No,3.0,4.0,3.0,N
+EMP1382,27.0,Male,research & development,Laboratory Technician,,married,4830,0.0,0.0,21.0,Yes,3.0,1.0,4.0,N
+EMP1080,35.0,Male,R&D,Laboratory Technician,Master's,Divorced,6308,1.0,0.0,5.0,Yes,1.0,1.0,2.0,yes
+EMP1077,37.0,Female,Research & Development,Laboratory Technician,High School,Married,7768,4.0,1.0,10.0,No,4.0,4.0,2.0,Yes
+EMP1331,50.0,Female,SALES,Sales Executive,Master's,SINGLE,8268,3.0,0.0,1.0,No,4.0,1.0,4.0,No
+EMP1090,23.0,Female,R&D,Laboratory Technician,Associate's,divorced,8247,5.0,0.0,6.0,No,4.0,3.0,1.0,no
+EMP1199,39.0,Male,Research & Development,Laboratory Technician,High School,Divorced,8609,9.0,1.0,20.0,Yes,4.0,2.0,4.0,Yes
+EMP1312,33.0,Female,SALES,Manager,Associate's,SINGLE,"3,170",6.0,4.0,2.0,Yes,4.0,4.0,3.0,No
+EMP1227,41.0,Male,Research & Development ,Research Scientist,Associate's,married,6226,5.0,0.0,1.0,Yes,1.0,1.0,3.0,yes
+EMP1025,28.0,Male,sales,Sales Representative,Bachelor's,married,6743,2.0,0.0,18.0,No,3.0,4.0,4.0,No
+EMP1366,50.0,Male,Human Resources,HR Executive,PhD,Married,5258,2.0,0.0,26.0,Yes,4.0,3.0,3.0,N
+EMP1287,18.0,Male,Research & Development ,Manager,High School,divorced,"6,220",0.0,0.0,3.0,Yes,4.0,1.0,4.0,No
+EMP1368,37.0,Male,Sales,Sales Executive,Bachelor's,married,4966,10.0,0.0,4.0,No,1.0,2.0,3.0,no
+EMP1156,22.0,Female,Research & Development,Manager,Associate's,divorced,4780,1.0,0.0,1.0,Yes,1.0,3.0,3.0,No
+EMP1007,41.0,Female,sales,Manager,PhD,Married,6906,9.0,0.0,7.0,No,4.0,4.0,3.0,no
+EMP1011,33.0,Male,Research & Development,Manufacturing Director,PhD,Divorced,4263,1.0,1.0,17.0,No,4.0,1.0,3.0,no
+EMP1293,31.0,Female,sales,Sales Executive,Bachelor's,Married,8015,0.0,0.0,22.0,No,3.0,1.0,3.0,Y
+EMP1263,33.0,Male,SALES,Sales Representative,PhD,single,4751,15.0,2.0,5.0,No,3.0,2.0,4.0,no
+EMP1082,20.0,Male,Sales,Manager,PhD,Divorced,3434,2.0,2.0,8.0,No,1.0,1.0,2.0,no
+EMP1334,43.0,Male,Human Resources,Manager,Bachelor's,Married,6295,6.0,1.0,11.0,No,4.0,4.0,3.0,N
+EMP1248,30.0,Male,Sales,Sales Representative,PhD,married,4828,2.0,1.0,4.0,No,3.0,3.0,2.0,No
+EMP1341,23.0,Female,SALES,Manager,Bachelor's,married,,1.0,1.0,2.0,No,,3.0,3.0,N
+EMP1279,40.0,Male,research & development,Laboratory Technician,Bachelor's,Married,5347,3.0,0.0,7.0,No,4.0,3.0,3.0,no
+EMP1318,32.0,Female,R&D,Laboratory Technician,PhD,married,8013,1.0,1.0,11.0,No,4.0,3.0,4.0,N
+EMP1254,55.0,Male,Research & Development,Research Scientist,PhD,Divorced,6184,7.0,0.0,10.0,No,3.0,2.0,4.0,N
+EMP1298,38.0,Male,human resources,Manager,PhD,divorced,4547,5.0,1.0,12.0,No,1.0,4.0,3.0,N
+EMP1308,38.0,Female,Sales,Manager,Bachelor's,Single,4818,11.0,3.0,5.0,No,4.0,2.0,3.0,no
+EMP1413,26.0,Male,Research & Development,Research Scientist,PhD,Divorced,3894,2.0,0.0,12.0,No,,3.0,3.0,No
+EMP1276,33.0,Female,sales,Manager,Associate's,Single,4777,10.0,0.0,7.0,No,2.0,1.0,3.0,N
+EMP1084,38.0,Female,SALES,Manager,High School,SINGLE,4427,2.0,1.0,5.0,No,2.0,2.0,3.0,yes
+EMP1093,19.0,Male, Sales,Manager,Bachelor's,Divorced,5399,1.0,1.0,7.0,No,2.0,2.0,2.0,No
+EMP1046,39.0,Male, Human Resources,Manager,PhD,married,5395,6.0,4.0,10.0,Yes,4.0,4.0,2.0,no
+EMP1291,33.0,Female,Sales,Manager,High School,Divorced,"6,281",-2.0,0.0,1.0,No,3.0,1.0,4.0,No
+EMP1047,43.0,Male,R&D,Research Scientist,High School,Single,7054,10.0,0.0,5.0,No,3.0,4.0,2.0,N
+EMP1274,38.0,Female,Research & Development,Manager,Bachelor's,Divorced,7721,1.0,1.0,23.0,Yes,1.0,1.0,3.0,Y
+EMP1288,20.0,Male,Human Resources,HR Specialist,Bachelor's,divorced,4148,2.0,0.0,11.0,No,2.0,4.0,3.0,no
+EMP1016,39.0,Female,Research & Development,Laboratory Technician,Associate's,divorced,5599,0.0,0.0,3.0,No,2.0,2.0,2.0,yes
+EMP1306,34.0,Male,HR,HR Executive,Master's,divorced,6725,0.0,0.0,13.0,Yes,2.0,1.0,1.0,Yes
+EMP1371,41.0,Male,SALES,Sales Representative,PhD,SINGLE,5410,12.0,0.0,16.0,Yes,4.0,1.0,3.0,no
+EMP1059,42.0,Female, Sales,Sales Executive,PhD,Divorced,7706,0.0,0.0,4.0,Yes,2.0,3.0,3.0,no
+EMP1441,30.0,Female,Research & Development ,Manufacturing Director,High School,married,9591,0.0,0.0,2.0,No,3.0,2.0,4.0,Yes
+EMP1323,32.0,Female,Sales,Manager,Master's,single,6044,0.0,0.0,1.0,No,1.0,2.0,4.0,No
+EMP1060,27.0,Female, Sales,Sales Representative,PhD,SINGLE,4780,5.0,0.0,5.0,No,1.0,1.0,3.0,No
+EMP1408,27.0,Male,Research & Development,Manager,,Divorced,6681,5.0,4.0,12.0,No,2.0,2.0,3.0,no
+EMP1040,42.0,Female, Sales,Sales Executive,PhD,Divorced,6206,8.0,0.0,5.0,No,1.0,4.0,2.0,N
+EMP1427,29.0,Male,Human Resources,HR Executive,High School,Divorced,4067,6.0,1.0,18.0,No,2.0,2.0,1.0,No
+EMP1210,33.0,Male,Research & Development ,Manufacturing Director,High School,SINGLE,7029,1.0,0.0,9.0,Yes,,3.0,2.0,N
+EMP1026,37.0,Female,Human Resources,Manager,Bachelor's,Single,,0.0,0.0,3.0,No,2.0,4.0,3.0,no
+EMP1264,41.0,Female, Human Resources,HR Executive,High School,Divorced,6623,0.0,0.0,10.0,Yes,4.0,2.0,3.0,N
+EMP1402,22.0,Female,Research & Development,Manufacturing Director,Bachelor's,Single,8038,,0.0,5.0,No,3.0,4.0,2.0,no
+EMP1085,22.0,Female, Sales,Manager,Associate's,single,4154,4.0,0.0,3.0,No,4.0,2.0,3.0,No
+EMP1062,21.0,Male,HR,HR Executive,Associate's,Divorced,"4,156",1.0,0.0,1.0,No,4.0,1.0,3.0,No
+EMP1052,49.0,Female,Human Resources,Manager,Associate's,married,6388,0.0,0.0,3.0,Yes,,4.0,3.0,no
+EMP1372,33.0,Female,sales,Manager,PhD,divorced,5577,15.0,0.0,1.0,Yes,4.0,4.0,2.0,yes
+EMP1243,44.0,Male,Research & Development ,Research Scientist,,Single,"6,237",1.0,1.0,10.0,Yes,3.0,2.0,3.0,N
+EMP1411,31.0,Female,research & development,Research Scientist,PhD,married,9200,1.0,1.0,12.0,No,1.0,1.0,1.0,no
+EMP1012,45.0,Male,Research & Development ,Manager,PhD,Married,,7.0,2.0,2.0,No,4.0,4.0,4.0,no
+EMP1018,29.0,Male, Sales,Manager,PhD,married,4401,8.0,0.0,9.0,Yes,1.0,1.0,3.0,Yes
+EMP1068,38.0,Female,Research & Development ,Research Scientist,Bachelor's,divorced,"7,385",3.0,0.0,2.0,No,2.0,4.0,4.0,Yes
+EMP1228,52.0,Female,Sales,Sales Representative,Master's,married,3633,1.0,0.0,1.0,No,2.0,1.0,4.0,No
+EMP1449,31.0,Female,human resources,Manager,High School,Divorced,4089,0.0,0.0,6.0,No,4.0,3.0,3.0,N
+EMP1097,56.0,Male,Human Resources,HR Specialist,Bachelor's,married,5826,0.0,0.0,8.0,No,1.0,2.0,3.0,no
+EMP1069,33.0,Male,human resources,HR Executive,Bachelor's,Divorced,"6,357",1.0,1.0,4.0,No,2.0,1.0,3.0,yes
+EMP1107,31.0,Male,research & development,Research Scientist,Bachelor's,married,4888,3.0,3.0,3.0,No,4.0,2.0,4.0,yes
+EMP1005,37.0,Female,sales,Sales Executive,Associate's,Married,5924,3.0,0.0,2.0,No,2.0,1.0,4.0,no
+EMP1385,27.0,Female,sales,Sales Representative,Associate's,divorced,4692,1.0,1.0,4.0,No,4.0,3.0,3.0,Y
+EMP1103,54.0,Male,sales,Sales Executive,High School,Married,3643,5.0,2.0,5.0,Yes,3.0,3.0,2.0,N
+EMP1296,38.0,Female,Human Resources,HR Executive,PhD,Divorced,4446,6.0,1.0,6.0,Yes,3.0,1.0,3.0,Yes
+EMP1409,35.0,Female,sales,Manager,Bachelor's,married,3749,8.0,5.0,5.0,No,2.0,4.0,3.0,no
+EMP1213,41.0,Female,human resources,HR Specialist,High School,Divorced,2981,2.0,2.0,1.0,No,3.0,1.0,2.0,yes
+EMP1428,41.0,Male,R&D,Laboratory Technician,Associate's,divorced,5942,9.0,1.0,18.0,No,3.0,4.0,3.0,yes
+EMP1391,35.0,Male,HR,Manager,PhD,married,3935,1.0,1.0,4.0,Yes,2.0,2.0,4.0,Y
+EMP1238,18.0,Female, Human Resources,HR Specialist,Master's,Married,2940,0.0,0.0,9.0,No,3.0,3.0,2.0,Y
+EMP1446,30.0,Male,Research & Development ,Manufacturing Director,High School,Married,5504,5.0,0.0,21.0,Yes,4.0,2.0,3.0,No
+EMP1135,18.0,Male,Research & Development ,Research Scientist,Master's,divorced,4652,0.0,0.0,1.0,No,1.0,4.0,3.0,Yes
+EMP1094,32.0,Female,sales,Sales Executive,Associate's,single,7275,13.0,1.0,2.0,Yes,3.0,3.0,2.0,N
+EMP1160,40.0,Male,,Sales Representative,Master's,Married,9038,2.0,0.0,8.0,Yes,3.0,1.0,4.0,No
+EMP1281,39.0,Female,human resources,HR Specialist,Master's,divorced,4345,6.0,1.0,3.0,Yes,1.0,3.0,3.0,Y
+EMP1399,29.0,Male,HR,HR Specialist,Master's,Single,"4,433",1.0,1.0,4.0,Yes,2.0,2.0,3.0,No
+EMP1002,35.0,Female,Research & Development,Manufacturing Director,PhD,SINGLE,5736,5.0,0.0,7.0,Yes,1.0,3.0,3.0,Y
+EMP1038,23.0,Female,Research & Development,Research Scientist,High School,Divorced,9865,0.0,0.0,3.0,No,1.0,3.0,3.0,Y
+EMP1120,32.0,Male,Research & Development,Research Scientist,Associate's,SINGLE,"11,409",0.0,0.0,-6.0,Yes,4.0,1.0,3.0,Yes
+EMP1125,44.0,Male,research & development,Laboratory Technician,Bachelor's,divorced,"8,874",11.0,1.0,1.0,No,4.0,2.0,3.0,yes
+EMP1164,47.0,Male,sales,Sales Representative,High School,married,2302,4.0,3.0,17.0,No,1.0,2.0,3.0,no
+EMP1319,35.0,Female,sales,Manager,Bachelor's,SINGLE,,1.0,0.0,8.0,Yes,4.0,1.0,4.0,yes
+EMP1200,19.0,Female,sales,Sales Representative,High School,Divorced,8028,,0.0,1.0,Yes,1.0,4.0,3.0,Y
+EMP1112,38.0,Female,Sales,Sales Executive,PhD,Divorced,5192,3.0,0.0,2.0,No,1.0,3.0,3.0,No
+EMP1337,51.0,Male, Sales,Sales Representative,Bachelor's,divorced,4453,5.0,0.0,3.0,No,4.0,4.0,3.0,no
+EMP1167,44.0,Male, Human Resources,Manager,Associate's,married,"3,587",4.0,2.0,6.0,No,1.0,4.0,3.0,No
+EMP1222,18.0,Male,HR,Manager,Associate's,Divorced,5405,0.0,0.0,1.0,No,1.0,1.0,4.0,No
+EMP1390,34.0,Male,human resources,HR Executive,PhD,Divorced,7900,4.0,2.0,1.0,Yes,2.0,3.0,1.0,Y
+EMP1003,34.0,Male,sales,Sales Executive,PhD,Single,5113,3.0,3.0,11.0,Yes,4.0,4.0,3.0,no
+EMP1096,30.0,Male,Sales,Sales Representative,High School,SINGLE,6560,0.0,0.0,6.0,Yes,1.0,1.0,4.0,Y
+EMP1132,38.0,Female,sales,Sales Executive,Associate's,single,3307,2.0,0.0,-40.0,Yes,1.0,1.0,4.0,N
+EMP1024,42.0,Female,research & development,Laboratory Technician,Associate's,Married,7960,0.0,0.0,-12.0,No,4.0,2.0,4.0,no
+EMP1004,23.0,Male,human resources,Manager,,SINGLE,2397,5.0,0.0,15.0,No,1.0,2.0,3.0,no
+EMP1394,31.0,Female,sales,Manager,PhD,SINGLE,7076,7.0,0.0,8.0,No,2.0,1.0,3.0,N
+EMP1241,20.0,Male,Research & Development,Manufacturing Director,Bachelor's,single,6588,0.0,0.0,3.0,Yes,3.0,4.0,4.0,No
+EMP1395,30.0,Female, Sales,Sales Representative,High School,Single,4287,4.0,1.0,3.0,No,,2.0,4.0,no
+EMP1437,44.0,Female,Sales,Sales Representative,High School,Divorced,2765,9.0,0.0,15.0,No,2.0,1.0,3.0,No
+EMP1029,28.0,Male, Human Resources,HR Executive,Associate's,Divorced,3938,0.0,0.0,5.0,Yes,4.0,1.0,3.0,N
+EMP1212,35.0,Female, Sales,Sales Representative,Master's,single,3508,5.0,3.0,2.0,No,3.0,4.0,4.0,No
+EMP1329,50.0,Male, Sales,Sales Executive,Associate's,Married,4829,1.0,0.0,1.0,No,4.0,1.0,3.0,yes
+EMP1262,35.0,Female,sales,Manager,Bachelor's,Divorced,4106,10.0,0.0,18.0,Yes,4.0,4.0,2.0,N
+EMP1134,29.0,Female,Sales,Manager,,Married,6278,3.0,0.0,5.0,No,3.0,4.0,4.0,no
+EMP1297,53.0,Female, Sales,Sales Executive,Associate's,Single,1972,6.0,0.0,21.0,No,3.0,4.0,3.0,N
+EMP1410,26.0,Female,Sales,Sales Executive,Master's,single,5008,2.0,0.0,6.0,No,1.0,4.0,4.0,no
+EMP1252,22.0,Male,Sales,Sales Representative,Master's,Married,2313,4.0,2.0,1.0,Yes,2.0,2.0,3.0,Y
+EMP1143,43.0,Male,HR,Manager,Master's,Single,2106,8.0,0.0,5.0,No,4.0,1.0,3.0,No
+EMP1435,38.0,Female,research & development,Manufacturing Director,Master's,Single,4985,1.0,0.0,9.0,Yes,1.0,2.0,3.0,yes
+EMP1314,32.0,Female,sales,Sales Executive,Bachelor's,Divorced,7100,5.0,3.0,16.0,No,3.0,2.0,4.0,yes
+EMP1157,41.0,Male,Research & Development,Manufacturing Director,Master's,divorced,"6,795",10.0,0.0,3.0,No,,2.0,2.0,no
+EMP1289,20.0,Male, Sales,Sales Representative,Master's,SINGLE,2620,2.0,0.0,9.0,Yes,2.0,2.0,3.0,Y
+EMP1286,40.0,Female,Sales,Sales Executive,PhD,Single,7202,10.0,1.0,2.0,No,3.0,2.0,3.0,N
+EMP1320,41.0,Male,R&D,Manufacturing Director,Associate's,single,4202,0.0,0.0,12.0,No,4.0,2.0,3.0,No
+EMP1146,27.0,Female,sales,Sales Representative,PhD,married,1716,1.0,0.0,8.0,Yes,4.0,4.0,4.0,no
+EMP1230,25.0,Male,human resources,HR Executive,Associate's,SINGLE,4043,7.0,0.0,4.0,Yes,3.0,2.0,3.0,No
+EMP1317,32.0,Male,HR,HR Executive,Associate's,married,4533,4.0,1.0,8.0,No,4.0,2.0,3.0,Y
+EMP1247,42.0,Female, Sales,Sales Executive,Bachelor's,divorced,7844,3.0,3.0,1.0,No,1.0,2.0,3.0,no
+EMP1418,18.0,Male, Human Resources,HR Specialist,High School,divorced,3737,0.0,0.0,16.0,Yes,3.0,3.0,4.0,No
+EMP1086,18.0,Male, Sales,Sales Representative,Associate's,Single,2891,0.0,0.0,1.0,No,1.0,4.0,2.0,no
+EMP1250,37.0,Male,Human Resources,HR Specialist,Master's,Married,4607,7.0,1.0,8.0,Yes,4.0,4.0,4.0,no
+EMP1155,21.0,Male,Research & Development ,Manufacturing Director,Master's,divorced,2078,3.0,2.0,9.0,No,1.0,4.0,1.0,N
+EMP1182,42.0,Male,Sales,Sales Representative,Bachelor's,married,5585,0.0,0.0,14.0,No,3.0,1.0,3.0,Yes
+EMP1075,27.0,Male,research & development,Manufacturing Director,PhD,Single,7386,-2.0,0.0,11.0,No,4.0,3.0,4.0,N
+,,,,,,,,,,,,,,,
+EMP1443,18.0,Male,sales,Sales Representative,PhD,Single,3263,0.0,0.0,1.0,Yes,4.0,3.0,4.0,yes
+EMP1129,48.0,Female,Sales,Sales Representative,Master's,divorced,4285,2.0,1.0,5.0,No,1.0,1.0,3.0,no
+EMP1358,32.0,Male,Research & Development,Research Scientist,High School,divorced,6395,6.0,2.0,3.0,No,4.0,2.0,3.0,No
+EMP1021,34.0,Male, Human Resources,HR Executive,Master's,Married,"3,228",16.0,3.0,9.0,No,2.0,4.0,3.0,N
+EMP1332,40.0,Male,human resources,HR Specialist,Associate's,Single,"2,581",7.0,1.0,16.0,No,4.0,3.0,3.0,No
+EMP1294,44.0,Male,Research & Development ,Laboratory Technician,Master's,married,6475,6.0,4.0,11.0,Yes,3.0,1.0,2.0,Y
+EMP1352,38.0,Female,Sales,Sales Representative,Associate's,SINGLE,3833,10.0,0.0,3.0,Yes,2.0,4.0,2.0,N
+EMP1098,28.0,Male, Sales,Sales Representative,Associate's,married,5990,0.0,0.0,1.0,Yes,2.0,3.0,4.0,no
+EMP1384,44.0,Male,Research & Development,Laboratory Technician,Bachelor's,divorced,5785,,3.0,15.0,Yes,1.0,2.0,4.0,No
+EMP1434,26.0,Female,Human Resources,HR Specialist,Bachelor's,Divorced,4936,2.0,2.0,2.0,No,1.0,3.0,3.0,no
+EMP1253,44.0,Female,Research & Development,Manufacturing Director,PhD,Married,6519,5.0,4.0,1.0,Yes,4.0,4.0,3.0,No
+EMP1070,36.0,Female,SALES,Sales Executive,PhD,Divorced,137680,10.0,1.0,26.0,Yes,3.0,2.0,4.0,N
+EMP1088,34.0,Male, Sales,Manager,High School,SINGLE,5971,3.0,0.0,16.0,No,3.0,3.0,2.0,N
+EMP1115,40.0,Female,sales,Sales Representative,Bachelor's,married,5739,1.0,0.0,3.0,Yes,3.0,1.0,4.0,No
+EMP1330,25.0,Female,Research & Development,Manager,Master's,Married,3113,7.0,0.0,12.0,No,4.0,2.0,2.0,yes
+EMP1392,27.0,Male,research & development,Manager,Associate's,married,3151,2.0,2.0,5.0,Yes,,4.0,3.0,yes
+EMP1338,25.0,Female,Human Resources,HR Executive,High School,divorced,,0.0,0.0,1.0,No,1.0,4.0,4.0,No
+EMP1197,28.0,Female,human resources,HR Specialist,High School,married,5281,2.0,2.0,2.0,Yes,1.0,3.0,2.0,Yes
+EMP1168,31.0,Male,research & development,Manager,High School,Divorced,7522,1.0,0.0,12.0,No,1.0,1.0,3.0,No
+EMP1105,38.0,Male,Research & Development,Laboratory Technician,High School,Divorced,5007,18.0,2.0,15.0,No,2.0,1.0,4.0,N
+EMP1383,33.0,Female,SALES,Sales Executive,PhD,divorced,4144,2.0,0.0,18.0,No,2.0,2.0,2.0,no
+EMP1402,22.0,Female,Research & Development,Manufacturing Director,Bachelor's,Single,8038,,0.0,5.0,No,3.0,4.0,2.0,no
+EMP1078,27.0,Female, Sales,Sales Executive,Bachelor's,Single,"4,889",0.0,0.0,4.0,No,3.0,3.0,4.0,no
+EMP1193,36.0,Male,Research & Development,Manager,Associate's,divorced,6466,1.0,1.0,1.0,No,3.0,4.0,3.0,Y
+EMP1055,30.0,Male,Sales,Sales Representative,Bachelor's,Single,2107,1.0,1.0,5.0,No,4.0,2.0,3.0,yes
+EMP1020,37.0,Male,Sales,Manager,Bachelor's,Divorced,4336,6.0,0.0,7.0,No,1.0,1.0,3.0,N
+EMP1433,27.0,Female,sales,Sales Representative,Associate's,SINGLE,7198,0.0,0.0,4.0,No,3.0,3.0,3.0,N
+EMP1179,33.0,Female,HR,HR Executive,Bachelor's,divorced,5450,11.0,1.0,13.0,No,4.0,4.0,2.0,No
+EMP1258,35.0,Male,sales,Sales Representative,High School,SINGLE,4916,1.0,1.0,7.0,No,3.0,3.0,2.0,yes
+EMP1256,40.0,Male,sales,Manager,Associate's,Married,3266,1.0,1.0,9.0,Yes,1.0,1.0,4.0,Y
+EMP1216,38.0,Male,Research & Development ,Manufacturing Director,High School,SINGLE,3769,6.0,3.0,1.0,Yes,3.0,2.0,2.0,N
+EMP1379,30.0,Male,Research & Development,Laboratory Technician,Bachelor's,single,3408,12.0,0.0,32.0,No,4.0,3.0,3.0,No
+EMP1194,29.0,Female, Sales,Sales Executive,Master's,Married,2227,3.0,1.0,13.0,No,2.0,4.0,3.0,no
+EMP1131,21.0,Male, Sales,Sales Representative,Master's,Single,5203,3.0,0.0,2.0,Yes,1.0,2.0,3.0,Y
+EMP1419,41.0,Male,sales,Sales Executive,Master's,single,7399,9.0,3.0,15.0,No,1.0,1.0,4.0,Yes
+EMP1101,31.0,Female,Research & Development ,Laboratory Technician,PhD,SINGLE,4955,11.0,3.0,8.0,No,2.0,4.0,4.0,N
+EMP1172,18.0,Male,SALES,Sales Representative,Bachelor's,Married,7536,0.0,0.0,13.0,No,4.0,3.0,3.0,N
+EMP1398,18.0,Female,HR,HR Specialist,Associate's,single,3547,0.0,0.0,4.0,No,4.0,1.0,4.0,No
+EMP1346,27.0,Male,Sales,Sales Representative,Bachelor's,Divorced,"4,103",9.0,1.0,24.0,No,1.0,2.0,2.0,No
+EMP1417,32.0,Male,R&D,Research Scientist,Master's,Married,10112,14.0,1.0,9.0,No,1.0,1.0,3.0,no
+EMP1144,29.0,Female, Sales,Manager,Bachelor's,married,5795,3.0,1.0,7.0,No,2.0,1.0,3.0,Yes
+EMP1347,28.0,Female,human resources,HR Executive,Associate's,married,2555,4.0,1.0,15.0,Yes,2.0,2.0,3.0,No
+EMP1310,42.0,Male,research & development,Manager,Associate's,married,5215,5.0,0.0,12.0,Yes,3.0,1.0,3.0,no
+EMP1203,51.0,Female, Human Resources,HR Specialist,,married,2923,-2.0,0.0,-20.0,Yes,1.0,3.0,4.0,yes
+EMP1201,18.0,Male,sales,Sales Executive,PhD,divorced,4059,0.0,0.0,2.0,No,3.0,2.0,3.0,Yes
+EMP1149,42.0,Male,SALES,Sales Representative,High School,SINGLE,3188,22.0,4.0,3.0,No,2.0,3.0,3.0,no
+EMP1269,52.0,Female,research & development,Manufacturing Director,Associate's,married,"6,780",6.0,6.0,1.0,Yes,2.0,4.0,3.0,Yes
+EMP1122,28.0,Male,R&D,Manufacturing Director,Master's,Married,"4,968",0.0,0.0,1.0,Yes,1.0,2.0,3.0,Yes
+EMP1137,38.0,Female,sales,Sales Representative,High School,single,5482,0.0,0.0,17.0,No,,3.0,4.0,No
+EMP1187,48.0,Female,Research & Development ,Research Scientist,PhD,divorced,2783,5.0,0.0,25.0,No,1.0,4.0,3.0,No
+EMP1407,37.0,Female,Sales,Manager,Bachelor's,Divorced,4483,4.0,2.0,9.0,No,2.0,1.0,3.0,N
+EMP1058,48.0,Male,Sales,Manager,PhD,married,6395,3.0,0.0,7.0,No,2.0,3.0,3.0,no
+EMP1195,28.0,Male, Sales,Manager,Bachelor's,married,7693,3.0,3.0,6.0,No,2.0,1.0,3.0,no
+EMP1271,46.0,Female,SALES,Sales Representative,Associate's,Single,9250,1.0,0.0,1.0,No,4.0,4.0,4.0,No
+EMP1359,38.0,Female,sales,Manager,Bachelor's,married,6297,14.0,3.0,2.0,No,1.0,1.0,3.0,no
+EMP1064,-5.0,Female,Research & Development ,Research Scientist,Associate's,Married,7340,0.0,0.0,19.0,No,2.0,4.0,3.0,Y
+EMP1071,28.0,Female,Research & Development,Manufacturing Director,High School,divorced,4469,10.0,3.0,1.0,No,1.0,4.0,3.0,No
+EMP1335,51.0,Male,SALES,Manager,High School,divorced,5584,8.0,2.0,13.0,No,1.0,3.0,4.0,Yes
+EMP1272,44.0,Female,Research & Development ,Research Scientist,Bachelor's,married,,11.0,6.0,1.0,No,3.0,4.0,3.0,No
+EMP1374,18.0,Male,human resources,HR Executive,High School,divorced,4667,0.0,0.0,5.0,No,4.0,1.0,2.0,N
+EMP1267,25.0,Male,HR,Manager,PhD,married,4125,2.0,2.0,8.0,No,3.0,2.0,3.0,N
+EMP1393,31.0,Female,HR,Manager,PhD,married,5106,0.0,0.0,1.0,No,4.0,2.0,3.0,N
+EMP1345,33.0,Female,HR,Manager,Master's,Divorced,4656,13.0,1.0,1.0,No,1.0,1.0,3.0,Y
+EMP1170,31.0,Female,SALES,Sales Executive,Associate's,divorced,8685,5.0,3.0,8.0,No,,4.0,3.0,no
+EMP1037,36.0,Female, Sales,Sales Representative,Master's,married,6293,2.0,2.0,4.0,No,2.0,3.0,4.0,yes
+EMP1244,25.0,Male,SALES,Sales Representative,Master's,Divorced,2169,0.0,0.0,10.0,No,4.0,4.0,3.0,N
+EMP1083,29.0,Male,HR,HR Executive,PhD,SINGLE,6483,0.0,0.0,12.0,No,1.0,3.0,3.0,yes
+EMP1261,29.0,Male, Sales,Manager,Bachelor's,Married,,1.0,1.0,1.0,Yes,3.0,4.0,3.0,yes
+EMP1420,29.0,Female,,HR Executive,High School,SINGLE,3847,2.0,2.0,2.0,No,4.0,4.0,3.0,no
+EMP1023,29.0,Female,HR,HR Executive,Associate's,married,,2.0,0.0,2.0,No,4.0,4.0,3.0,no
+EMP1309,28.0,Female,Research & Development,Research Scientist,Associate's,divorced,6733,1.0,0.0,7.0,No,2.0,2.0,3.0,No
+EMP1431,42.0,Male,Sales,Sales Representative,PhD,Divorced,"5,541",1.0,0.0,17.0,No,2.0,3.0,3.0,no
+EMP1240,33.0,Female,Research & Development,Research Scientist,Bachelor's,Married,6308,0.0,0.0,9.0,Yes,2.0,4.0,3.0,N
+EMP1221,30.0,Female,Sales,Sales Representative,Associate's,Married,3597,1.0,0.0,11.0,No,2.0,4.0,4.0,Yes
+EMP1014,28.0,Male,sales,Sales Representative,Master's,SINGLE,6361,0.0,0.0,3.0,No,1.0,2.0,4.0,yes
+EMP1355,40.0,Female,Human Resources,HR Specialist,High School,divorced,6470,17.0,2.0,11.0,No,3.0,2.0,3.0,no
+EMP1161,51.0,Male,research & development,Manager,Master's,divorced,5666,5.0,1.0,1.0,No,3.0,3.0,3.0,No
+EMP1073,40.0,Male,Research & Development ,Manufacturing Director,Associate's,Single,7411,2.0,0.0,1.0,No,2.0,4.0,4.0,No
+EMP1178,47.0,Male,Research & Development ,Manager,Bachelor's,married,5471,1.0,0.0,9.0,No,4.0,3.0,4.0,no
+EMP1277,37.0,Male, Sales,Sales Representative,Associate's,divorced,6638,4.0,0.0,2.0,No,1.0,4.0,4.0,No
+EMP1036,37.0,Female,Research & Development ,Research Scientist,Associate's,Single,5534,1.0,1.0,5.0,Yes,3.0,3.0,3.0,Y
+EMP1327,29.0,Male,sales,Sales Representative,Associate's,married,5168,2.0,1.0,10.0,No,2.0,4.0,3.0,Yes
+EMP1208,51.0,Male,Research & Development ,Manager,High School,Single,6345,4.0,2.0,1.0,No,3.0,3.0,4.0,No
+EMP1226,31.0,Male,Research & Development,Manufacturing Director,Bachelor's,Married,4530,1.0,1.0,8.0,No,2.0,1.0,4.0,yes
+EMP1121,33.0,Female,sales,Sales Executive,High School,divorced,5047,5.0,0.0,12.0,No,1.0,1.0,3.0,no
+EMP1217,32.0,Female,Research & Development,Manager,Bachelor's,divorced,5301,5.0,5.0,1.0,No,2.0,4.0,2.0,no
+EMP1030,43.0,Male,Sales,Sales Executive,Associate's,Divorced,4498,2.0,0.0,3.0,No,,4.0,1.0,N
+EMP1348,34.0,Male, Sales,Sales Executive,PhD,married,9125,0.0,0.0,5.0,No,4.0,3.0,4.0,N
+EMP1189,18.0,Male,Human Resources,Manager,Associate's,divorced,7071,0.0,0.0,21.0,Yes,3.0,4.0,4.0,yes
+EMP1424,54.0,Male, Sales,Manager,High School,single,3690,3.0,0.0,3.0,Yes,2.0,3.0,2.0,N
+EMP1326,47.0,Male, Sales,Sales Executive,High School,divorced,3048,20.0,3.0,3.0,No,3.0,2.0,4.0,Y
+EMP1181,33.0,Male, Sales,Manager,Bachelor's,Married,,3.0,1.0,30.0,No,3.0,1.0,3.0,N
+EMP1234,36.0,Male,Sales,Sales Executive,Bachelor's,married,6191,0.0,0.0,1.0,Yes,4.0,4.0,3.0,N
+EMP1369,50.0,Male,Research & Development,Manager,High School,married,7287,8.0,8.0,2.0,Yes,3.0,2.0,2.0,N
+EMP1166,54.0,Female, Sales,Sales Representative,High School,Married,3355,1.0,1.0,10.0,No,1.0,4.0,3.0,No
+EMP1127,19.0,Female,Research & Development ,Manufacturing Director,Associate's,married,8870,0.0,0.0,6.0,No,4.0,2.0,2.0,yes
+EMP1439,37.0,Male,research & development,Manager,High School,divorced,7650,2.0,0.0,6.0,No,2.0,3.0,3.0,N
+EMP1265,35.0,Female,SALES,Manager,Associate's,single,5320,17.0,0.0,3.0,No,3.0,3.0,3.0,yes
+EMP1065,39.0,Male,SALES,Sales Executive,Master's,married,5588,10.0,4.0,5.0,No,3.0,3.0,2.0,no
+EMP1387,43.0,Female,SALES,Sales Representative,Master's,divorced,3265,1.0,1.0,7.0,Yes,2.0,4.0,3.0,yes
+EMP1215,29.0,Female,sales,Sales Representative,PhD,married,5612,11.0,1.0,9.0,Yes,,3.0,2.0,Yes
+EMP1403,32.0,Female,Research & Development ,Manager,PhD,Divorced,8109,3.0,0.0,11.0,No,1.0,3.0,4.0,No
+EMP1339,150.0,Female,human resources,HR Executive,PhD,divorced,2630,1.0,1.0,3.0,No,3.0,3.0,3.0,No
+EMP1425,41.0,Female,HR,HR Executive,Associate's,divorced,5496,,2.0,1.0,No,3.0,4.0,4.0,No
+EMP1176,30.0,Male,Research & Development,Manufacturing Director,PhD,SINGLE,6214,3.0,0.0,1.0,Yes,1.0,2.0,4.0,N
+EMP1173,47.0,Female,SALES,Manager,Bachelor's,divorced,8076,0.0,0.0,13.0,No,1.0,2.0,4.0,N
+EMP1333,26.0,Male,R&D,Research Scientist,PhD,divorced,6285,4.0,1.0,6.0,No,4.0,1.0,4.0,Y
+EMP1033,25.0,Female,Sales,Sales Representative,PhD,Single,6450,7.0,0.0,4.0,Yes,4.0,3.0,3.0,no
+EMP1032,40.0,Male, Sales,Sales Executive,Bachelor's,Married,5954,1.0,1.0,1.0,Yes,4.0,3.0,4.0,Y
+EMP1233,55.0,Male,,Manager,Associate's,Single,6572,2.0,2.0,11.0,No,4.0,2.0,4.0,no
+EMP1236,26.0,Male,,Sales Representative,PhD,divorced,5100,,0.0,4.0,No,4.0,2.0,3.0,No
+EMP1375,18.0,Female, Sales,Sales Representative,PhD,Divorced,5028,0.0,0.0,11.0,Yes,3.0,4.0,3.0,yes
+EMP1188,47.0,Female,Research & Development ,Manufacturing Director,Master's,married,5243,5.0,1.0,4.0,No,1.0,4.0,3.0,No
+EMP1174,31.0,Male,Sales,Sales Executive,High School,Married,7528,9.0,4.0,4.0,No,1.0,4.0,3.0,Yes
+EMP1422,35.0,Male,Research & Development,Manufacturing Director,Associate's,single,5383,2.0,0.0,1.0,No,3.0,2.0,3.0,N
+EMP1304,24.0,Male,Sales,Sales Executive,High School,SINGLE,7054,2.0,0.0,1.0,Yes,3.0,3.0,4.0,no
+EMP1039,26.0,Female,Research & Development,Laboratory Technician,Bachelor's,married,5965,6.0,0.0,1.0,No,4.0,2.0,2.0,No
+EMP1266,35.0,Male, Human Resources,HR Specialist,Associate's,SINGLE,6813,1.0,1.0,7.0,Yes,1.0,1.0,3.0,Yes
+EMP1450,41.0,Female,Research & Development ,Manufacturing Director,High School,single,7060,0.0,0.0,16.0,No,1.0,3.0,4.0,N
+EMP1015,31.0,Male,Sales,Sales Representative,PhD,SINGLE,5308,5.0,3.0,18.0,Yes,4.0,4.0,3.0,N
+EMP1095,26.0,Female,SALES,Sales Representative,Bachelor's,Divorced,6890,4.0,1.0,1.0,No,2.0,3.0,3.0,No
+EMP1017,39.0,Male,sales,Manager,Master's,single,10046,3.0,1.0,21.0,No,4.0,1.0,3.0,yes
+EMP1342,38.0,Male,Research & Development ,Manager,Bachelor's,single,2765,5.0,2.0,2.0,No,1.0,1.0,2.0,No
+EMP1218,29.0,Female,Research & Development ,Manufacturing Director,Bachelor's,married,6580,11.0,0.0,5.0,Yes,1.0,1.0,3.0,no
+EMP1290,43.0,Male,Sales,Sales Executive,Master's,divorced,4979,1.0,1.0,16.0,Yes,,4.0,4.0,yes
+EMP1079,47.0,Female,R&D,Research Scientist,Bachelor's,Married,7215,5.0,0.0,16.0,No,2.0,1.0,3.0,no
+EMP1092,34.0,Male, Human Resources,HR Specialist,Bachelor's,single,1500,6.0,1.0,7.0,Yes,3.0,1.0,4.0,No
+EMP1388,33.0,Male,Research & Development,Manufacturing Director,Master's,Divorced,8716,8.0,0.0,3.0,Yes,3.0,3.0,3.0,N
+EMP1184,46.0,Female,Research & Development,Research Scientist,High School,Divorced,5313,3.0,3.0,6.0,Yes,1.0,4.0,1.0,No
+EMP1381,40.0,Male,research & development,Manager,Associate's,Divorced,7073,0.0,0.0,4.0,No,1.0,2.0,3.0,No
+EMP1324,35.0,Male,Sales,Sales Executive,Bachelor's,Divorced,6086,0.0,0.0,3.0,Yes,1.0,2.0,3.0,Yes
+EMP1268,35.0,Male,,Sales Executive,PhD,Single,6286,0.0,0.0,10.0,No,3.0,2.0,2.0,No
+EMP1191,40.0,Female,R&D,Manufacturing Director,High School,Divorced,8263,5.0,0.0,8.0,No,3.0,2.0,3.0,no
+EMP1448,41.0,Male,Sales,Sales Representative,Bachelor's,SINGLE,4094,,0.0,4.0,No,1.0,1.0,3.0,yes
+EMP1110,27.0,Female,HR,HR Executive,High School,divorced,4047,0.0,0.0,8.0,No,1.0,1.0,2.0,no
+EMP1365,35.0,Male,Research & Development ,Research Scientist,Bachelor's,Single,8500,3.0,2.0,7.0,No,4.0,3.0,3.0,N
+EMP1357,30.0,Male,Human Resources,HR Specialist,High School,divorced,6842,12.0,0.0,6.0,Yes,2.0,2.0,1.0,no
+EMP1136,47.0,Male,,Manager,Associate's,Single,6146,1.0,0.0,6.0,No,2.0,1.0,3.0,Y
+EMP1246,42.0,Female,Sales,Sales Executive,PhD,Divorced,,9.0,0.0,5.0,Yes,1.0,4.0,3.0,Yes
+EMP1370,32.0,Female,research & development,Manager,,SINGLE,7723,2.0,2.0,1.0,No,4.0,1.0,4.0,N
+EMP1275,18.0,Female,Human Resources,HR Executive,Bachelor's,divorced,4588,-2.0,0.0,3.0,No,4.0,2.0,3.0,No
+EMP1148,28.0,Female,Sales,Sales Representative,PhD,Divorced,4041,2.0,0.0,4.0,Yes,4.0,2.0,4.0,No
+EMP1106,33.0,Female,Research & Development ,Laboratory Technician,Master's,SINGLE,6591,2.0,0.0,10.0,No,4.0,2.0,2.0,no
+EMP1295,25.0,Male,Research & Development ,Manufacturing Director,,Married,7735,,2.0,1.0,No,3.0,2.0,3.0,No
+EMP1325,41.0,Male,Research & Development,Research Scientist,PhD,Divorced,8870,0.0,0.0,1.0,No,3.0,4.0,4.0,Yes
+EMP1259,43.0,Female,Sales,Sales Representative,High School,Married,5568,8.0,2.0,1.0,Yes,3.0,2.0,4.0,Yes
+EMP1288,20.0,Male,Human Resources,HR Specialist,Bachelor's,divorced,4148,2.0,0.0,11.0,No,2.0,4.0,3.0,no
+EMP1440,33.0,Male,SALES,Sales Representative,Bachelor's,single,8218,6.0,2.0,12.0,No,,4.0,3.0,No
+EMP1180,49.0,Female,Sales,Manager,Master's,Married,5894,1.0,0.0,17.0,No,4.0,3.0,3.0,No
+EMP1362,32.0,Female,Human Resources,Manager,Associate's,divorced,5350,3.0,0.0,2.0,No,1.0,2.0,3.0,No
+EMP1165,40.0,Female,SALES,Sales Representative,Bachelor's,married,5336,2.0,2.0,1.0,Yes,2.0,4.0,3.0,Yes
+EMP1111,41.0,Female,HR,HR Specialist,Associate's,Single,5100,3.0,3.0,7.0,No,4.0,4.0,3.0,no
+EMP1389,42.0,Male,sales,Sales Representative,High School,divorced,7534,0.0,0.0,4.0,No,3.0,4.0,3.0,yes
+EMP1257,26.0,Male, Human Resources,Manager,Bachelor's,Single,5961,1.0,0.0,2.0,No,1.0,3.0,3.0,yes
+EMP1315,37.0,Male, Human Resources,HR Executive,Bachelor's,Single,4586,0.0,0.0,1.0,No,3.0,4.0,3.0,yes
+EMP1006,27.0,Male,Sales,Sales Representative,Master's,Married,3517,3.0,1.0,1.0,No,2.0,3.0,3.0,Yes
+EMP1145,39.0,Male, Sales,Sales Executive,Bachelor's,married,6640,18.0,2.0,3.0,Yes,1.0,2.0,3.0,No
+EMP1104,45.0,Female,Research & Development ,Manager,Master's,Single,6953,1.0,1.0,17.0,Yes,4.0,2.0,2.0,No
+EMP1211,29.0,Male, Sales,Sales Executive,PhD,divorced,7181,7.0,2.0,12.0,No,3.0,1.0,3.0,no
+EMP1386,39.0,Female,R&D,Manager,Associate's,single,4330,2.0,2.0,6.0,No,3.0,4.0,4.0,no
+EMP1042,43.0,Male,R&D,Manager,Bachelor's,Divorced,7893,0.0,0.0,2.0,No,4.0,2.0,3.0,no
+EMP1363,39.0,Male,SALES,Sales Executive,Master's,divorced,7073,6.0,0.0,15.0,No,3.0,1.0,4.0,no
+EMP1138,33.0,Male,human resources,HR Specialist,Bachelor's,Single,6296,3.0,3.0,1.0,Yes,,4.0,3.0,N
+EMP1378,29.0,Male,HR,HR Specialist,Bachelor's,Married,4405,0.0,0.0,1.0,No,2.0,3.0,3.0,N
+EMP1255,43.0,Male,Human Resources,HR Specialist,Bachelor's,married,6200,3.0,2.0,9.0,No,4.0,2.0,4.0,N
+EMP1147,50.0,Male,research & development,Laboratory Technician,Master's,Single,4446,0.0,0.0,3.0,Yes,3.0,3.0,3.0,Y
+EMP1126,38.0,Male,sales,Manager,Associate's,Single,5250,2.0,0.0,18.0,Yes,3.0,3.0,2.0,N
+EMP1087,32.0,Male, Human Resources,HR Executive,Associate's,SINGLE,5690,6.0,0.0,3.0,Yes,2.0,1.0,4.0,Y
+EMP1031,25.0,Male,Human Resources,HR Specialist,Master's,Divorced,6435,1.0,1.0,6.0,No,3.0,3.0,3.0,No
+EMP1432,36.0,Male,HR,Manager,Master's,Divorced,"3,778",6.0,0.0,1.0,No,3.0,2.0,4.0,no
+EMP1066,38.0,Male, Sales,Sales Executive,Bachelor's,Married,4057,16.0,1.0,6.0,No,2.0,4.0,3.0,No
+EMP1204,31.0,Male,Human Resources,Manager,Master's,divorced,5045,8.0,4.0,5.0,No,1.0,1.0,4.0,no
+EMP1206,38.0,Female,R&D,Research Scientist,High School,Single,6714,1.0,0.0,19.0,Yes,,3.0,3.0,Yes
+EMP1045,21.0,Female,SALES,Manager,Master's,Married,4079,0.0,0.0,19.0,No,2.0,2.0,3.0,N
+EMP1028,46.0,Female,Research & Development ,Laboratory Technician,Master's,SINGLE,3889,1.0,1.0,3.0,No,3.0,2.0,1.0,Y
+EMP1081,36.0,Male,sales,Sales Executive,Master's,divorced,,1.0,1.0,12.0,No,1.0,4.0,3.0,No
+EMP1438,36.0,Female,sales,Sales Representative,Bachelor's,Single,4916,6.0,5.0,4.0,Yes,2.0,2.0,3.0,Yes
+EMP1114,46.0,Male,Research & Development,Manufacturing Director,Bachelor's,Single,4337,28.0,0.0,1.0,No,2.0,1.0,4.0,no
+EMP1400,40.0,Female,research & development,Manager,PhD,Divorced,6186,0.0,0.0,5.0,No,4.0,1.0,3.0,Yes
+EMP1205,18.0,Female,human resources,HR Specialist,PhD,Divorced,3994,0.0,0.0,2.0,Yes,2.0,3.0,4.0,no
+EMP1008,25.0,Male,sales,Manager,High School,Married,8107,2.0,2.0,7.0,No,2.0,1.0,3.0,Y
+EMP1209,40.0,Male,SALES,Sales Executive,Associate's,married,4266,1.0,1.0,6.0,No,4.0,3.0,2.0,N
+EMP1159,47.0,Male,R&D,Research Scientist,PhD,Single,5860,0.0,0.0,4.0,No,2.0,3.0,4.0,yes
+EMP1113,37.0,Female,Sales,Sales Executive,Bachelor's,Single,3619,9.0,0.0,10.0,Yes,3.0,1.0,4.0,No
+EMP1412,30.0,Female,Research & Development,Manufacturing Director,Associate's,Married,3124,-2.0,0.0,10.0,Yes,4.0,1.0,4.0,Y
+EMP1447,27.0,Male,R&D,Manager,Bachelor's,Married,5434,0.0,0.0,16.0,Yes,2.0,1.0,3.0,Y
+EMP1232,24.0,Female, Sales,Sales Executive,Master's,Single,,4.0,2.0,13.0,No,2.0,1.0,4.0,no
+EMP1229,41.0,Male,Sales,Sales Executive,PhD,married,4767,23.0,2.0,12.0,Yes,2.0,4.0,3.0,No
+EMP1009,35.0,Male,Sales,Manager,Bachelor's,divorced,7072,8.0,3.0,12.0,No,2.0,1.0,3.0,N
+EMP1074,39.0,Female,sales,Sales Executive,PhD,Single,7922,10.0,7.0,20.0,No,,2.0,4.0,Y
+EMP1401,38.0,Male,SALES,Sales Representative,PhD,Divorced,6728,2.0,1.0,5.0,No,3.0,2.0,3.0,N
+EMP1119,46.0,Male,HR,Manager,Associate's,single,4568,1.0,0.0,1.0,No,1.0,3.0,4.0,N
+EMP1190,27.0,Female,Research & Development,Manufacturing Director,,Married,6108,1.0,0.0,5.0,Yes,2.0,4.0,4.0,Y
+EMP1207,48.0,Male,research & development,Laboratory Technician,Master's,married,5366,0.0,0.0,4.0,No,1.0,1.0,2.0,No
+EMP1356,23.0,Male,Research & Development ,Research Scientist,High School,divorced,2458,5.0,1.0,13.0,Yes,4.0,2.0,3.0,Y
